@@ -1,0 +1,17 @@
+body{
+    margin: 0;
+    padding: 0; 
+}
+img{
+    width: 50%;
+    height: 80%;
+}
+.blue{
+    color:#000099;
+}
+.centro{
+    text-align: center;
+}
+h1,h2{
+    font-family: 'Comfortaa', cursive;
+}
